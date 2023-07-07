@@ -6,6 +6,7 @@ Technologies used:
 - Flask Framework
 - HTML
 - Bootstrap
+- sqlite
 
 Basic Functionalities:
 - Registering User

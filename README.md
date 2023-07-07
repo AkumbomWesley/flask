@@ -1,4 +1,21 @@
-# flask
-Projects using flask and Python 
+MICROBLOG 
+A web application where users can make posts and follow/unfollow each other. 
 
-I'll be going on a coding journey to learn flask (and Python) and will be updating my development through done projects in this repo
+Technologies used:
+- Python
+- Flask Framework
+- HTML
+- Bootstrap
+
+Basic Functionalities:
+- Registering User
+- Signing In
+- Following/Unfollowing users
+- Making a blog post
+- Seeing other users' blog posts
+- Editing profile
+- Pagination
+ 
+Pending Functionalities:
+- Resetting Password with Email
+- Communication with API Server
